@@ -31,6 +31,9 @@ Note: some Visual Studio options can cause the app to crash. If using Visual Stu
 
 The IDE will now have a custom splash screen with most menus and tool windows removed.
 
+#### Turbofan Exploded View (3D)
+A standalone custom control project that renders an interactive 3D exploded view of a turbofan engine using the third party HelixToolkit library. See [VeriStandEngineExplodedView](VeriStandEngineExplodedView/README.md).
+
 ### Architecture
 For more information on the code provided, refer to [VeriStand Plugin Architecture](VeriStandCustomControls/ARCHITECTURE.md).
 
